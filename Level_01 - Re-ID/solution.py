@@ -17,5 +17,3 @@ def answer(n):
     prime_string = gen_primes(10005)
     end = n + 5
     return prime_string[n:end]
-
-print(answer(3))
