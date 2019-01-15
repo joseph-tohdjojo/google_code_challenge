@@ -19,3 +19,7 @@ Inputs:
     (int) n = 3
 Output:
     (string) "71113"
+
+Success
+=======
+![Image of Success](https://github.com/joseph-tohdjojo/google_foo.bar/blob/master/Level_01%20-%20Re-ID/Success_Gif/Large%20GIF%20(1440x726).gif)
